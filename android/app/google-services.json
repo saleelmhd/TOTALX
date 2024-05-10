@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557968649545",
+    "project_id": "totalx-d1900",
+    "storage_bucket": "totalx-d1900.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557968649545:android:090d99ec8d1549e449fe98",
+        "android_client_info": {
+          "package_name": "com.example.totalx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCboyc4CCp8wLBpahjz8pEsCGeTBpZw9Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
